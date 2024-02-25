@@ -13,6 +13,7 @@
 - Tableau
 - PySpark
 - Azure Data Factory
+<br>
 💻 I've worked on various projects involving data analysis, visualization, and reporting, leveraging my expertise
     in these tools to derive valuable insights and drive informed decision-making.
 <br>
